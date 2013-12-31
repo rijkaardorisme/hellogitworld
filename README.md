@@ -1,4 +1,4 @@
 hellogitworld
-==============
+=============
 
-My first public repository on GitHub
+My first public repository on GitHub.
