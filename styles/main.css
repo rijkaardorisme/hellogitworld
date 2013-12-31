@@ -1,4 +1,12 @@
 body {
-	padding: 50px;
-	font: 14px "Helvetica Neue", Arial, Helvetica, sans-serif;
+	padding-top: 40px;
+	font: 14px "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+i {
+	font-size: 12px;
+}
+
+.container {
+	width: 900px;
 }
